@@ -50,7 +50,7 @@ string <img style="transform: translateY(0.1em); background: transparent;" src="
 ### Pow of a string 
 
 Let <img style="transform: translateY(0.1em); background: transparent;" src="svg/wstring.svg"> y <img style="transform: translateY(0.1em); background: transparent;" src="svg/ninN.svg">. <img style="transform: translateY(0.1em); background: transparent;" src="svg/wn.svg"> denote the string we
-obtain by concatenating <img style="transform: translateY(0.1em); background: transparent;" src="svg/n.svg"> copies of <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> : <div style="text-align: center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/pow.svg"></div>
+obtain by concatenating <img style="transform: translateY(0.1em); background: transparent;" src="svg/n.svg"> copies of <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> : <div align="center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/pow.svg"></div>
 
 ### Inverse of a string 
 
