@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="8pt" height="9pt" viewBox="0 0 8 9" version="1.1"><!--latexit:AAAE0njabVNrbBRVFD53boE+aHfa8ijlNditFhFsoUotPthSFgp0eczudrvdst6d
+vbuddh6bmTvUpam5JoTwQ2P8hRJFKTERYnxFiTHxFUCNMY1uGzUxavjFH+MP/xhD
+TLyzu0E0zM1kzjn3nnu+851vMgVDd1l39yKScM2SpcvqE8ET1HF12xoNEkeb0IUX
+DTK7kAjamUmqMbcF0OnX0nIgoh6kRZoNVQ99V1sXdWybcfS2vKlheee993Vtvn/L
+A1u3PfjQrkd3Dx44ePRYcuw4iVPdsF0WC1qeYSw0NgXk9uBIRN02RYtuUnyrReJB
+zSCue6m5pXXFylWr29ZwiWNew5fwpXwZr+V1vP7S2nXrN2xUNt3TwRv4ct7EA7yZ
+t/O1fD3fwJVEhrjU0C0a02zDdqKmnaUxpjODJgoOJWbGoOMmyVt6TtcIE+1Gs4RR
+0VaGaFN5x/as7B4/MenanqPRKH2KdUD1WejuCWzf0RuLqMf2DaQiavmgWiAaDXcr
+YoGMeGPp4Z19jyQrbVjEpImKSd2RasJcX38ioh4u9yvXlAKPPf7EqCDAZY5u5bl8
+RFwQGijzPOwxIvCq5Z2LoT1+XsVZ2BsI79s/dNsXYEJMWBmPUZe38DW8NS2XUllb
+80xqsTKCsZ7uAhufIQ7TNYPO1qc8lwrsUyRPx4TpY3XHZ8qszSqdIpJVcrYjXosp
+5eidGTPEdN2imREnTcIm3P/v+cG77Y15LNc3PqNbBYHU0iqFcp6hMFthxQJVsroj
+eDGKwiCaowusijZBHKIxoc56XziHIkcuDPMVFw7zlbwtHlHDAuCiGo0F4iOJUeGr
++kkqiMmFDZJ3hR8RjXXs7qqMUJb5Kr46PmxbRLMF06nx6g1zqX7hpp8UTA7qmi8M
+4hTn0n4wo6XlljsIzlY4n8v23zVeygXyE760mS4Kh66avOGVA3G+Ttw0OSWqDQq9
+zU32+2Iyd/SGexSxgDf6Iy3sH+Ib/eHFU6qeN4lI8U6k5dbbUvgX2kUv3Q+10Azt
+EITNsB12whAcgqOgwjTMwil4Fs7CeXgDLsOb8Ba8A+/B+3AFPoSP4Bp8AV/B1/AN
+zMO3UIJF+B5+hBtwE36DP+AWqkNNSEFbUC/ahUIogmJoBI2i40hHDjqJZtFpdAY9
+h86il9A59Cp6F32APkHX0Tz6Cf2MfkU3pCvSx9Kn0ufSVem69KU0L/0g/SLdlH6X
+/pT+km5Jf+MaXIdl3IrbcCfuwlvxAN6LkziN87iAHTyNn8bP4DP4efwCfhGfwy/j
+8/h1fBl/VhmghKo/4zT858HX/gEYHI93-->
+<defs>
+<g>
+<symbol overflow="visible" id="glyph0-0">
+<path style="stroke:none;" d=""/>
+</symbol>
+<symbol overflow="visible" id="glyph0-1">
+<path style="stroke:none;" d="M 4.453125 -3.890625 C 4.546875 -4.015625 4.546875 -4.0625 4.546875 -4.09375 C 4.546875 -4.140625 4.5 -4.203125 4.46875 -4.25 L 2.015625 -7.796875 L 4.78125 -7.796875 C 6.796875 -7.796875 7.40625 -7.359375 7.65625 -5.46875 L 7.953125 -5.46875 L 7.609375 -8.15625 L 0.984375 -8.15625 C 0.6875 -8.15625 0.671875 -8.15625 0.671875 -7.890625 L 3.640625 -3.5625 L 0.796875 -0.328125 C 0.6875 -0.1875 0.6875 -0.171875 0.6875 -0.125 C 0.6875 0 0.796875 0 0.984375 0 L 7.609375 0 L 7.953125 -2.828125 L 7.65625 -2.828125 C 7.4375 -0.828125 6.625 -0.5 4.75 -0.5 L 1.453125 -0.5 Z M 4.453125 -3.890625 "/>
+</symbol>
+</g>
+<clipPath id="clip1">
+  <path d="M 0 0 L 8 0 L 8 8.964844 L 0 8.964844 Z M 0 0 "/>
+</clipPath>
+</defs>
+<g id="surface1">
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<g style="fill:rgb(0%,0%,0%);fill-opacity:1;">
+  <use xlink:href="#glyph0-1" x="-0.0236" y="8.579"/>
+</g>
+</g>
+</g>
+</svg>

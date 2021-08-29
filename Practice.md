@@ -19,66 +19,61 @@ Implementation of the basics operations for string manipulation, such as
 
 -   Equality
 
-## Delivery date 
-
-Tuesday, Sep 14th 2021 at 11:59 am at the latest
-
 ## Problem description 
 
 The student must implement the basic operations for string manipulation.
 
 ### Alphabet of a string 
 
-The alphabet of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> is the set of symbols used to form <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> ,
-denoted by <img style="transform: translateY(0.1em); background: transparent;" src="svg/QBcTBWQgEo.svg">
-That is if <img style="transform: translateY(0.1em); background: transparent;" src="svg/86NIhX7aZN.svg"> then <img style="transform: translateY(0.1em); background: transparent;" src="svg/bcoZl8zeJt.svg">
-for all <img style="transform: translateY(0.1em); background: transparent;" src="svg/6ZaFEvYMwV.svg">.
+The alphabet of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> is the set of symbols used to form <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> ,
+denoted by <img style="transform: translateY(0.1em); background: transparent;" src="svg/Sigma.svg">
+That is if <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> then <img style="transform: translateY(0.1em); background: transparent;" src="svg/alphabet.svg">
+for all <img style="transform: translateY(0.1em); background: transparent;" src="svg/ninN.svg">.
 
 ### Length of a string 
 
-The length of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> is the number of symbols that occur in <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> ,
-denoted by <img style="transform: translateY(0.1em); background: transparent;" src="svg/RPaALvtg5j.svg">
-That is if <img style="transform: translateY(0.1em); background: transparent;" src="svg/c9xcyo9hFL.svg"> then <img style="transform: translateY(0.1em); background: transparent;" src="svg/dbB6RPkcgc.svg">.
+The length of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> is the number of symbols that occur in <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> ,
+denoted by <img style="transform: translateY(0.1em); background: transparent;" src="svg/lw.svg">
+That is if <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> then <img style="transform: translateY(0.1em); background: transparent;" src="svg/length.svg">.
 
 ### Concatenation of strings 
 
-Given two strings <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg">  and <img style="transform: translateY(0.1em); background: transparent;" src="svg/f6AtJQgNJq.svg">, the concatenation of strings makes a new
-string <img style="transform: translateY(0.1em); background: transparent;" src="svg/URnsZ42fSr.svg"> by putting them together end to end.
+Given two strings <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg">  and <img style="transform: translateY(0.1em); background: transparent;" src="svg/v.svg">, the concatenation of strings makes a new
+string <img style="transform: translateY(0.1em); background: transparent;" src="svg/wv.svg"> by putting them together end to end.
 
-- If <img style="transform: translateY(0.1em); background: transparent;" src="svg/c9xcyo9hFL.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/eU6kz7d7sD.svg">, then <img style="transform: translateY(0.1em); background: transparent;" src="svg/tm31TLkaGI.svg">
+- If <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/vsequence.svg">, then <img style="transform: translateY(0.1em); background: transparent;" src="svg/wvsequence.svg">
 
-- <img style="transform: translateY(0.1em); background: transparent;" src="svg/RaXmmVnZPy.svg">
+- <img style="transform: translateY(0.1em); background: transparent;" src="svg/modularity.svg">
 
-- <img style="transform: translateY(0.1em); background: transparent;" src="svg/o9yjmXVQYl.svg">
+- <img style="transform: translateY(0.1em); background: transparent;" src="svg/neutro.svg">
 
 ### Pow of a string 
 
-Let <img style="transform: translateY(0.1em); background: transparent;" src="svg/kMIaabon60.svg"> y <img style="transform: translateY(0.1em); background: transparent;" src="svg/6ZaFEvYMwV.svg">. <img style="transform: translateY(0.1em); background: transparent;" src="svg/C2vHvwXRun.svg"> denote the string we
-obtain by concatenating <img style="transform: translateY(0.1em); background: transparent;" src="svg/c7A0ioZit2.svg"> copies of <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> : <div style="text-align: center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/pow.svg"></div>
+Let <img style="transform: translateY(0.1em); background: transparent;" src="svg/wstring.svg"> y <img style="transform: translateY(0.1em); background: transparent;" src="svg/ninN.svg">. <img style="transform: translateY(0.1em); background: transparent;" src="svg/wn.svg"> denote the string we
+obtain by concatenating <img style="transform: translateY(0.1em); background: transparent;" src="svg/n.svg"> copies of <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> : <div style="text-align: center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/pow.svg"></div>
 
 ### Inverse of a string 
 
-The **inverse** of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/c9xcyo9hFL.svg"> is the string <img style="transform: translateY(0.1em); background: transparent;" src="svg/koc3Hy4gum.svg"> defined by the rule:
+The **inverse** of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> is the string <img style="transform: translateY(0.1em); background: transparent;" src="svg/wI.svg"> defined by the rule:
 
 <div style="text-align: center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/inverse.svg"></div>
 
 ### Occurrences of a string 
 
-Let <img style="transform: translateY(0.1em); background: transparent;" src="svg/uTE9xMUeit.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/kMIaabon60.svg">, then <img style="transform: translateY(0.1em); background: transparent;" src="svg/bXQ3UANrJ1.svg"> is the number of <img style="transform: translateY(0.1em); background: transparent;" src="svg/wzNzdnb9HQ.svg">'s in <img style="transform: translateY(0.1em); background: transparent;" src="svg/ICB7kguF44.svg"> 
+Let <img style="transform: translateY(0.1em); background: transparent;" src="svg/asymbol.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/wstring.svg">, then <img style="transform: translateY(0.1em); background: transparent;" src="svg/aw.svg"> is the number of <img style="transform: translateY(0.1em); background: transparent;" src="svg/a.svg">'s in <img style="transform: translateY(0.1em); background: transparent;" src="svg/w.svg"> 
 
 ### Equality of strings 
 
-Given two strings <img style="transform: translateY(0.1em); background: transparent;" src="svg/c9xcyo9hFL.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/eU6kz7d7sD.svg">, we
-say that the strings are **equal** <img style="transform: translateY(0.1em); background: transparent;" src="svg/EvLyfZnUs2.svg">, if <img style="transform: translateY(0.1em); background: transparent;" src="svg/krHyGsVVuL.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/8w9DZSM6FF.svg"> for all <img style="transform: translateY(0.1em); background: transparent;" src="svg/Dlaity7Lbp.svg">
+Given two strings <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/vsequence.svg">, we
+say that the strings are **equal** <img style="transform: translateY(0.1em); background: transparent;" src="svg/equal.svg">, if <img style="transform: translateY(0.1em); background: transparent;" src="svg/nm.svg"> and <img style="transform: translateY(0.1em); background: transparent;" src="svg/ab.svg"> for all <img style="transform: translateY(0.1em); background: transparent;" src="svg/in.svg">
 
 ## General guidelines 
 
 ### Implementation design:  
 
-The student must create each of the operations described above as a
-function. Any alternative solution should be properly documented.
+The student must create each of the operations described above as a function. The student should properly document any alternative solution.
 
-The student must create each function using the following prototypes
+The student must create each function using the following prototypes.
 
 ### Alphabet function prototype: 
 
@@ -163,12 +158,11 @@ int equal(char* w,char* v);
 
 The programming language to use is either C or C++.
 
--   It is restricted the use of libraries for string manipulation such
-    as ***string.h***, ***cstring*** or others.
+- The use of libraries for string manipulation such as ***string.h***, ***cstring*** or others, is restricted.
 
--   It is restricted the use of the ***string*** data type.
+- The use of the string data type is restricted
 
--   Each function must be develop from scratch, using only control
+- Each function must be developed from scratch, using only control
     statements and data structures.
 
     -   The student could use data structures from C++ such as set,
@@ -198,18 +192,14 @@ The programming language to use is either C or C++.
 
 ## Evaluation requirements 
 
-1.  **Verification**: The functions will be tested automatically in
-    Github using unit-tests. It will be expected to pass all the test
-    cases, otherwise the grade will be lower.
+1.  **Verification**: The functions will be tested automatically in Github using unit tests. It will be expected to pass all the test cases; otherwise, the grade will be lower.
 
 2.  **Report**: The student must elaborate a report with the format seen
     in the first class. The student should report
 
-    1.  The decisions made for each part (techniques, data types, data
-        structures and findings and so on)
+    1.  The decisions made for each section (techniques, data types, data structures, findings, and so on)
 
-    2.  The problems the student faced with the practice and the
-        solutions.
+    2.  The problems that the student faced with the practice and the proposed solutions.
 
 ## Examples 
 
