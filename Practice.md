@@ -56,7 +56,7 @@ obtain by concatenating <img style="transform: translateY(0.1em); background: tr
 
 The **inverse** of a string <img style="transform: translateY(0.1em); background: transparent;" src="svg/wsequence.svg"> is the string <img style="transform: translateY(0.1em); background: transparent;" src="svg/wI.svg"> defined by the rule:
 
-<div style="text-align: center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/inverse.svg"></div>
+<div align="center"><img style="transform: translateY(0.1em); background: transparent;" src="svg/inverse.svg"></div>
 
 ### Occurrences of a string 
 
