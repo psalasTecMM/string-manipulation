@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "C Test",
+      "setup": "make test",
+      "run": "./testcadenas",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 3,
+      "points": 100
+    }
+  ]
+}

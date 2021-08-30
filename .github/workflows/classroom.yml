@@ -1,0 +1,19 @@
+    name: GitHub Classroom Workflow
+
+    on: [push]
+
+    jobs:
+      build:
+        name: Autograding
+        runs-on: ubuntu-latest
+        steps:
+          - name: Getting cpputest
+            run: git clone git://github.com/cpputest/cpputest.git
+          - name: Building cpputest
+            run: cd cpputest/cpputest_build && autoreconf .. -i && ../configure && make && sudo make install
+          - name: Cleaning cpputest
+            run: cd ../.. && rm -rf cpputest
+          - name: Uname
+            run: uname -s
+          - uses: actions/checkout@v2
+          - uses: education/autograding@v1
